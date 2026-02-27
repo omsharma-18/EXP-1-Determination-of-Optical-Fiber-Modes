@@ -49,18 +49,18 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
 ---
-
-
-## 📊 OBSERVATION AND CALCULATION
-
-- 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
 
+---
+
+## 📊 OBSERVATION AND CALCULATION
+
+<img width="432" height="775" alt="Screenshot 2026-01-24 144620" src="https://github.com/user-attachments/assets/c8c7efb5-8a94-453e-ab7a-69f113641561" />
 
 ---
-## Tabulation
 ## Result
+The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
